@@ -1,0 +1,29 @@
+{
+  "@@locale": "en",
+  "appTitle": "Casual Game",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "startGame": "Start Game",
+  "settings": "Settings",
+  "sound": "Sound",
+  "music": "Music",
+  "score": "Score: {score}",
+  "@score": {
+    "placeholders": {
+      "score": {
+        "type": "int"
+      }
+    }
+  },
+  "highScore": "High Score: {score}",
+  "@highScore": {
+    "placeholders": {
+      "score": {
+        "type": "int"
+      }
+    }
+  },
+  "gameOver": "Game Over",
+  "mainMenu": "Main Menu"
+}
