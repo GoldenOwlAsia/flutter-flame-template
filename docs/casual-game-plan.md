@@ -51,15 +51,15 @@
 
 ## 4. Timeline
 
-| Phase | Details | Estimate |
-|---|---|---|
-| **Game Design** | GDD, mechanics, level progression, economy | 1–3 days |
-| **Art & Design** | Common screens, gameplay assets, SFX, BGM, app assets | 3–5 days |
-| **Core Template** | Ads, IAP, Analytics, Game Center, Settings | 3–5 days |
-| **Common Screens** | Revamp Menu, Pause, Game Over, Reward UI | 3–5 days |
-| **Gameplay** | Mechanic prototype, sound, effects, first level | 5–10 days |
-| **Content** | 20 levels → 100–200 levels | 5–10 days |
-| **QA & Store** | Testing, store listing, submission | 1–2 days |
+| Phase | Details | Owner | Estimate |
+|---|---|---|---|
+| **Game Design** | GDD, mechanics, level progression, economy | Game Designer | 1–3 days |
+| **Art & Design** | Common screens, gameplay assets, SFX, BGM, app assets | Art Designer | 3–5 days |
+| **Core Template** | Ads, IAP, Analytics, Game Center, Settings | Developer | 3–5 days |
+| **Common Screens** | Revamp Menu, Pause, Game Over, Reward UI | Developer | 3–5 days |
+| **Gameplay** | Mechanic prototype, sound, effects, first level | Developer | 5–10 days |
+| **Content** | 20 levels → 100–200 levels | Developer | 5–10 days |
+| **QA & Store** | Testing, store listing, submission | QA & Developer | 1–2 days |
 
 > **Game Design:** ~1–3 days  
 > **Art & Design:** ~3–5 days  
